@@ -1,0 +1,40 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+
+/**
+ *
+ * @author Student
+ */
+import java.util.*;
+
+ public class GAMING {
+     public static void main(String[] args) {
+         
+         // sigle dimensional
+         Strings[] gaming = {"Ps5", "Xbox", "Switch");
+         
+         // two dimensional array
+         int[][] sales = {
+             {1000,2000,1500}; {1000,3000,1000}; {3000,4000,1200};
+             
+     }
+     String[] cities = ("Cape Town", "PortElizabeth", "Pretoria");
+     
+     // diplay report
+     
+     System.out.println("Gaming Consela, Report");
+     System.out.println("----------------------");
+     
+     for(int i = 0 , i < gaming.length; i++) {
+     
+ }
+     System.out.println();
+     
+         }
+         
+     }
+    
+    
+
